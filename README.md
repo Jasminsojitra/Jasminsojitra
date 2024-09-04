@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jasminsojitra
+- 👋 Hi, I’m Jasmin sojitra
 - 🔭 I’m currently working on Flutter and xamarin
 - 👨‍💻 All of my projects are available at....
 - 💬 Ask me about Flutter, Dart, Xamarin
