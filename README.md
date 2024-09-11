@@ -3,7 +3,7 @@
 <div align="center">
 <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
  </div>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasminsojitra" alt="jasminsojitra" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jasminsojitra&show_icons=true&locale=en" alt="Jasminsojitra" /></p>
 
 - 💬 Ask me about **Flutter, Dart, Firebase, Android**
 
