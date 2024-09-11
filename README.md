@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jasmin Sojitra</h1>
-<h3 align="center">A passionate Mobile App developer from India</h3>
-
+<h3 align="center">A passionate Mobile App developer</h3>
+<div align="center">
+<img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+ </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasminsojitra" alt="jasminsojitra" /></a> </p>
 
 - 💬 Ask me about **Flutter, Dart, Firebase, Android**
